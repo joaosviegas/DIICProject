@@ -20,7 +20,7 @@ This assignment focused on researching and defining a design problem using the f
   > Deaf adult patients need to communicate effectively and independently with a medical practitioner, ensuring accurate diagnosis, medical confidentiality and a safe healthcare environment.
 - Supported it with an **argument** covering the reliance on spoken language, the lack of interpreters, the limits of lip-reading and written notes, the loss of confidentiality when family members interpret, and delayed preventive care.
 
-Files: [Problem Statement and Argument](assignment-1/problem-statement.pdf) · [Guidelines](assignment1/01-assignment.pdf)
+Files: [Problem Statement and Argument](assignment-1/problem-statement.pdf) · [Guidelines](assignment-1/01-assignment.pdf)
 
 ## Assignment 2 - Exploring the Solution Space
 
@@ -30,19 +30,19 @@ This assignment continued from Assignment 1 into the second diamond of the Doubl
 - Generated **30+ ideas**: at least 10 individually per member, then extended as a team through **time-boxed brainstorming**.
 - Clustered and prioritised the ideas, then created a **narrative storyboard** for the chosen concept.
 
-Files: [HMW, Ideas and Storyboard](assignment-2/how-might-we-statement.pdf) · [Guidelines](assignment2/02-assignment.pdf)
+Files: [HMW, Ideas and Storyboard](assignment-2/how-might-we-statement.pdf) · [Guidelines](assignment-2/02-assignment.pdf)
 
 ## Project - Co-Designing Inclusive Technologies
 
 The main project of the course: a 7-week group project to co-design a computing artifact that addresses a specific need of a co-designer from a minority group, external to the course.
 
-<!-- add project title / co-designer description -->
+### Co-Designing Support for Colour-Coded Technical Data with a Colour-Blind Engineering Student
 
 - Ran **3 co-design sessions**: exploring the problem space and signing a **project declaration**, a **co-design ideation workshop**, and testing a **high-fidelity prototype**.
 - Covered **co-design**, **inclusive design**, **problem framing**, **ideation** and **prototyping**.
 - Presented a mid-term in week 5 and the final in week 7 with a demoable **high-fidelity prototype** and a **research paper**.
 
-Files: [Design Brief](project/design-brief.pdf) · [Problem Statement](project/problem-statement.pdf) · [Research Paper](project/research-paper.pdf)
+Files: [Design Brief](project/design-brief.pdf) · [Project Declaration](project/project-declaration.pdf) · [Research Paper](project/research-paper.pdf)
 
 ## Team
 
